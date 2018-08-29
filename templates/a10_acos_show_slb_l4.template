@@ -1,4 +1,4 @@
 Value REXMIT_SYN (\d+)
 
 Start
-  ^L4\s+rcv\s+rexmit\s+${REXMIT_SYN}
+  ^L4\s+rcv\s+rexmit\s+SYN\s+${REXMIT_SYN}.*
