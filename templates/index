@@ -253,3 +253,5 @@ paloalto_panos_show_jobs_all.template, .*, paloalto_panos, sh[[ow]] jo[[bs]] all
 
 vmware_nsxv_show_ip_bgp_neighbors.template, .*, vmware_nsxv, sh[[ow]] ip b[[gp]] n[[eighbors]]
 vmware_nsxv_show_ip_route.template, .*, vmware_nsxv, sh[[ow]] ip r[[oute]]
+
+a10_acos_show_slb_l4.template, .*, a10, sh[[ow]] slb l4
